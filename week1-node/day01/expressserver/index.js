@@ -8,7 +8,6 @@ app.get('/', (req, res) => {
 })
 
 app.get('/login', (req, res) => {
-  console.log(req.query)
   res.send('登录')
 })
 
