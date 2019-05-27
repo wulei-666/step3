@@ -8,8 +8,6 @@ https://github.com/wuxunxun007/sh1902.git
     然后再执行步骤3）
 4.git push -u origin master (第一次需要 -u,以后不用)
     （提示出错信息：error:failed to push som refs to .......
-      则先输入git pull origin master //先把远程服务器github上面的文件拉下          来
-
-，再执行步骤4）
+      则先输入git pull origin master //先把远程服务器github上面的文件拉下          来，再执行步骤4）
 5.git config --global user.name "git账号"
 6.git config --global user.email "git邮箱"
